@@ -16,7 +16,7 @@ nav{
   align-items: center;
   justify-content: center;
 }
-nav a{
+nav > a{
   background: rgb(223, 212, 212);
   padding-left: 10px;
   padding-right: 10px;
@@ -27,7 +27,7 @@ figcaption{
   font-size: 15px;
 }
 #featured-property p{
-  width: 800px;
+  width: 801px;
   text-align: center;
   margin-left: 350px;
 }
